@@ -8,7 +8,7 @@ I am a QR Code Bot**
 
 >> `I can generate links to QR Code with QR Code decode to links support.`
 
-Made by @FayasNoushad"""
+Powered by @SLBotsOfficial"""
 
 HELP_TEXT = """**Hey, Follow these steps:**
 
@@ -24,25 +24,23 @@ HELP_TEXT = """**Hey, Follow these steps:**
 /reset - For reset settings
 /status - For bot status
 
-Made by @FayasNoushad"""
+Powered by @SLBotsOfficial"""
 
 ABOUT_TEXT = """--**About Me 😎**--
 
 🤖 **Name :** [QR Code Bot](https://telegram.me/{})
 
-👨‍💻 **Developer :** [Fayas](https://github.com/FayasNoushad)
+👨‍💻 **Creator :** [Fayas](https://github.com/TharukRenuja)
 
-📢 **Channel :** [Fayas Noushad](https://telegram.me/FayasNoushad)
+📢 **Channel :** [Fayas Noushad](https://telegram.me/SLBotsOfficial)
 
-👥 **Group :** [Developer Team](https://telegram.me/TheDeveloperTeam)
-
-🌐 **Source :** [👉 Click here](https://github.com/FayasNoushad/QR-Code-bot)
+👥 **Group :** [Developer Team](https://telegram.me/trtechguide)
 
 📝 **Language :** [Python3](https://python.org)
 
 🧰 **Framework :** [Pyrogram](https://pyrogram.org)
 
-📡 **Server :** [Heroku](https://heroku.com)"""
+📡 **Server :** [SL Deploy Server](https://srilankatelegramic.ml)"""
 
 SETTINGS_TEXT = "**Settings**"
 

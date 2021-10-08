@@ -8,7 +8,7 @@ An advanced QR Code telegram bot with more features. A modified version of [QR C
 Made with Python3
 (C) @FayasNoushad
 Copyright permission under MIT License
-License -> https://github.com/FayasNoushad/QR-Code-Bot/blob/main/LICENSE
+License -> https://github.com/TharukRenuja/QR-Code-Bot/blob/main/LICENSE
 ```
 
 ---
@@ -26,7 +26,7 @@ License -> https://github.com/FayasNoushad/QR-Code-Bot/blob/main/LICENSE
 ## Deploy
 
 ```sh
-git clone https://github.com/FayasNoushad/QR-Code-Bot
+git clone https://github.com/TharukRenuja/QR-Code-Bot
 cd QR-Code-Bot
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
